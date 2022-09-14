@@ -11,4 +11,29 @@ public class Bird extends Animal{
         sb.append('}');
         return sb.toString();
     }
+
+    @Override
+    public void breathe() {
+
+    }
+
+    @Override
+    public void eat() {
+
+    }
+
+    @Override
+    public void sleep() {
+
+    }
+
+    @Override
+    public void mate() {
+
+    }
+
+    @Override
+    public void call() {
+
+    }
 }
